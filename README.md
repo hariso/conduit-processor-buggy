@@ -2,6 +2,8 @@
 
 This is a test.
 
+This is another test.
+
 This is a template project for building [Conduit](https://conduit.io) processors in Go. It makes it possible to
 start working on a Conduit processor in a matter of seconds.
 
